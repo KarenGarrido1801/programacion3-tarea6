@@ -1,0 +1,395 @@
+[
+    {
+        "id": "tab-bebidas",
+        "title": "Bebidas",
+        "children":[
+            {
+                "id": 1,
+                "title": "Jugo de limon",
+                "price": 3.66
+            },
+            {
+                "id": 2,
+                "title": "Jugo de chinola",
+                "price": 3.55
+            },
+            {
+                "id": 3,
+                "title": "Agua",
+                "price": 1.55
+            },
+            {
+                "id": 4,
+                "title": "Refresco",
+                "price": 4.99
+            },
+            {
+                "id": 5,
+                "title": "Cafe",
+                "price": 1.22
+            },  
+            {
+                "id": 6,
+                "title": "Jugo de limon",
+                "price": 3.66
+            },
+            {
+                "id": 7,
+                "title": "Jugo de chinola",
+                "price": 3.55
+            },
+            {
+                "id": 8,
+                "title": "Agua",
+                "price": 1.55
+            },
+            {
+                "id": 9,
+                "title": "Refresco",
+                "price": 4.99
+            },
+            {
+                "id": 10,
+                "title": "Cafe",
+                "price": 1.22
+            }
+        ]
+    },
+    {
+        "id": "tab-entradas",
+        "title": "Entradas",
+        "children":[
+            {
+                "id": 1,
+                "title": "Aros de cebolla",
+                "price": 3.15
+            },
+            {
+                "id": 2,
+                "title": "Deditos de pescado",
+                "price": 2.44
+            },
+            {
+                "id": 3,
+                "title": "bread stick",
+                "price": 3.66
+            },
+            {
+                "id": 4,
+                "title": "Nachos con guacaole",
+                "price": 4.88
+            },
+            {
+                "id": 5,
+                "title": "chesse stick",
+                "price": 3.99
+            },  
+            {
+                "id": 6,
+                "title": "Aros de cebolla",
+                "price": 3.15
+            },
+            {
+                "id": 7,
+                "title": "Deditos de pescado",
+                "price": 2.44
+            },
+            {
+                "id": 8,
+                "title": "bread stick",
+                "price": 3.66
+            },
+            {
+                "id": 9,
+                "title": "Nachos con guacaole",
+                "price": 4.88
+            },
+            {
+                "id": 10,
+                "title": "chesse stick",
+                "price": 3.99
+            }
+        ]
+    },
+    {
+        "id": "tab-hamburguesas",
+        "title": "Hamburguesas",
+        "children":[
+            {
+                "id": 1,
+                "title": "Hamburguesa de res simple",
+                "price": 6.45
+            },
+            {
+                "id": 2,
+                "title": "Hamburguesa de res doble",
+                "price": 8.99
+            },
+            {
+                "id": 3,
+                "title": "Hamburguesa de pollo",
+                "price": 9.99
+            },
+            {
+                "id": 4,
+                "title": "Hamburguesa vegetariana",
+                "price": 6.99
+            },
+            {
+                "id": 5,
+                "title": "Hamburguesa suprema",
+                "price": 10.89
+            },
+            {
+                "id": 6,
+                "title": "Hamburguesa de res simple",
+                "price": 6.45
+            },
+            {
+                "id": 7,
+                "title": "Hamburguesa de res doble",
+                "price": 8.99
+            },
+            {
+                "id": 8,
+                "title": "Hamburguesa de pollo",
+                "price": 9.99
+            },
+            {
+                "id": 9,
+                "title": "Hamburguesa vegetariana",
+                "price": 6.99
+            },
+            {
+                "id": 10,
+                "title": "Hamburguesa suprema",
+                "price": 10.89
+            }
+        ]
+    },
+    {
+        "id": "tab-mariscos",
+        "title": "Mariscos",
+        "children":[
+            {
+                "id": 1,
+                "title": "Pescado a la planca",
+                "price": 15.22
+            },
+            {
+                "id": 2,
+                "title": "Pescado frito",
+                "price": 15.99
+            },
+            {
+                "id": 3,
+                "title": "Camarones al ajillo",
+                "price": 15.66
+            },
+            {
+                "id": 4,
+                "title": "Paella para dos",
+                "price": 12.55
+            },
+            {
+                "id": 5,
+                "title": "Spagueti con camarones",
+                "price": 12.55
+            },
+            {
+                "id": 6,
+                "title": "Pescado a la planca",
+                "price": 15.22
+            },
+            {
+                "id": 7,
+                "title": "Pescado frito",
+                "price": 15.99
+            },
+            {
+                "id": 8,
+                "title": "Camarones al ajillo",
+                "price": 15.66
+            },
+            {
+                "id": 9,
+                "title": "Paella para dos",
+                "price": 12.55
+            },
+            {
+                "id": 10,
+                "title": "Spagueti con camarones",
+                "price": 12.55
+            }
+        ]
+    },
+    {
+        "id": "tab-carnes",
+        "title": "Carnes",
+        "children":[
+            {
+                "id": 1,
+                "title": "Bistec BBQ",
+                "price": 15.66
+            },
+            {
+                "id": 2,
+                "title": "Alitas BBQ",
+                "price": 16.88
+            },
+            {
+                "id": 3,
+                "title": "Filete de serdo",
+                "price": 15.66
+            },
+            {
+                "id": 4,
+                "title": "Pechuga Gordon Blue",
+                "price": 13.55
+            },
+            {
+                "id": 5,
+                "title": "Costillas de serdo",
+                "price": 12.86
+            },
+            {
+                "id": 6,
+                "title": "Bistec BBQ",
+                "price": 15.66
+            },
+            {
+                "id": 7,
+                "title": "Alitas BBQ",
+                "price": 16.88
+            },
+            {
+                "id": 8,
+                "title": "Filete de serdo",
+                "price": 15.66
+            },
+            {
+                "id": 9,
+                "title": "Pechuga Gordon Blue",
+                "price": 13.55
+            },
+            {
+                "id": 10,
+                "title": "Costillas de serdo",
+                "price": 12.86
+            }
+        ]
+    },
+    {
+        "id": "tab-sopas",
+        "title": "Sopas",
+        "children":[
+            {
+                "id": 1,
+                "title": "Sopa de pescado",
+                "price": 6.88
+            },
+            {
+                "id": 2,
+                "title": "Sopa de Vegetales",
+                "price": 7.55
+            },
+            {
+                "id": 3,
+                "title": "Sancocho",
+                "price": 6.55
+            },
+            {
+                "id": 4,
+                "title": "Sopa de pollo",
+                "price": 7.99
+            },
+            {
+                "id": 5,
+                "title": "Asopao",
+                "price": 6.66
+            },
+            {
+                "id": 6,
+                "title": "Sopa de pescado",
+                "price": 6.88
+            },
+            {
+                "id": 7,
+                "title": "Sopa de Vegetales",
+                "price": 7.55
+            },
+            {
+                "id": 8,
+                "title": "Sancocho",
+                "price": 6.55
+            },
+            {
+                "id": 9,
+                "title": "Sopa de pollo",
+                "price": 7.99
+            },
+            {
+                "id": 10,
+                "title": "Asopao",
+                "price": 6.66
+            }
+        ]
+    },
+    {
+        "id": "tab-postres",
+        "title": "Postres",
+        "children":[
+            {
+                "id": 1,
+                "title": "Tres leches",
+                "price": 5.33
+            },
+            {
+                "id": 2,
+                "title": "Brownis",
+                "price": 4.99
+            },
+            {
+                "id": 3,
+                "title": "Flan",
+                "price": 6.55
+            },
+            {
+                "id": 4,
+                "title": "Helado",
+                "price": 4.55
+            },
+            {
+                "id": 5,
+                "title": "Biscocho",
+                "price": 6.99
+            },
+            {
+                "id": 6,
+                "title": "Tres leches",
+                "price": 5.33
+            },
+            {
+                "id": 7,
+                "title": "Brownis",
+                "price": 4.99
+            },
+            {
+                "id": 8,
+                "title": "Flan",
+                "price": 6.55
+            },
+            {
+                "id": 9,
+                "title": "Helado",
+                "price": 4.55
+            },
+            {
+                "id": 10,
+                "title": "Biscocho",
+                "price": 6.99
+            }
+        ]
+    }
+
+]
