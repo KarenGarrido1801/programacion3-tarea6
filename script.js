@@ -1,6 +1,6 @@
 let opcions = [];
 
-fetch('./menu.json')
+fetch('https://karengarrido1801.github.io/programacion3-tarea6/menu.json')
   .then(res => {
     if (!res.ok) throw new Error('HTTP error ' + res.status);
     return res.json();
@@ -54,3 +54,4 @@ function ocultarSubMenu(){
     subMenu.removeEventListener("mouseleave", process);
     subMenu.addEventListener("mouseleave", process);
 }
+
